@@ -19,7 +19,18 @@ La informática en la nube ofrece una _innovación más rápida_, _recursos flex
 
 ## Modelos de servicio en la nube
 
+* **Iaas**: El proveedor de servicios en la nube _mantendrá actualizado el hardware_, pero el _mantenimiento del sistema operativo y la configuración de red_ serán su responsabilidad como inquilino de nube.
+  * Ventajas: Sin gastos de capital, ágil, modelo basado en consumo, flexible, no se requieren conocimientos de la infraestructura.
+* **PaaS**: El proveedor de servicios en la nube _administra las máquinas virtuales y los recursos de red_, y el inquilino de nube _implementa sus aplicaciones en el entorno de hospedaje administrado_.
+  * Ventajas: Sin gastos de capital, ágil, modelo basado en consumo, flexible, no se requieren conocimientos de la infraestructura, aumento de productividad.
+  * Desventajas: Limitaciones de la plataforma.
+* **SaaS**: El proveedor de servicios en la nube _administra todos los aspectos del entorno de la aplicación_, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube _solo necesita proporcionar sus datos_ a la aplicación administrada por el proveedor de servicios en la nube.
+  * Ventajas: Sin gastos de capital, ágil, modelo de precio de pago por uso, flexible.
+  * Desventajas: Limitaciones de software.
+
 ## Informática sin servidor
+
+La informática sin servidor permite que los desarrolladores creen aplicaciones más rápidamente, ya que _elimina la necesidad de administrar la infraestructura_. En las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
 
 ## Nube pública, privada e híbrida
 
