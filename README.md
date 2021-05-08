@@ -28,7 +28,7 @@ La informática en la nube ofrece una _innovación más rápida_, _recursos flex
   * Ventajas: Sin gastos de capital, ágil, modelo de precio de pago por uso, flexible.
   * Desventajas: Limitaciones de software.
 
-![Modelos de servicio en la nube](.\img\iaas-paas-saas-expanded.png)
+![Modelos de servicio en la nube](./img/iaas-paas-saas-expanded.png)
 
 ## Informática sin servidor
 
