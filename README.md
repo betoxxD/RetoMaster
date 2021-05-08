@@ -1,5 +1,26 @@
 # RetoMaster
 
+## ¿Qué es la nube?
+
+_**La nube**_ es la entrega de servicios informáticos a través de Internet. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia.
+
+La informática en la nube ofrece una _innovación más rápida_, _recursos flexibles_ y _economías de escala_.
+
+## Ventajas de la nube
+
+* **Confiabilidad**: Proporcionar una experiencia de usuario _continua_ sin tiempo de inactividad perceptible aunque se produzcan errores.
+* **Escalabilidad**: Se pueden escalar de dos maneras, sacando partido al mismo tiempo del _escalado automático_:
+  * _**Vertical**_: La _capacidad informática_ se puede aumentar si se agrega _RAM_ o _CPU_ adicionales a una máquina virtual.
+  * _**Horizontal**_: La capacidad informática se puede aumentar si se agregan _instancias de un recurso_, como máquinas virtuales adicionales a la configuración.
+* **Elasticidad**: Se pueden configurar para que _siempre_ tengan los recursos que necesitan.
+* **Agilidad**: Los recursos basados en la nube se pueden implementar y configurar _rápidamente_ a medida que cambian los requisitos de la aplicación.
+* **Distribución geográfica**: Las aplicaciones y los datos se pueden implementar en centros de datos regionales de _todo el mundo_, lo que garantiza que los clientes siempre tendrán el _mejor rendimiento_ de su región.
+* **Recuperación ante desastres**: Al usar los servicios de _copia de seguridad_ basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están _protegidos_ en caso de que se produzca un desastre.
+
+## Modelos de servicio en la nube
+
+## Informática sin servidor
+
 ## Nube pública, privada e híbrida
 
 ### Nube pública
