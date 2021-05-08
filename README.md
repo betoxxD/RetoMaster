@@ -9,7 +9,7 @@ La informática en la nube ofrece una _innovación más rápida_, _recursos flex
 ## Ventajas de la nube
 
 * **Confiabilidad**: Proporcionar una experiencia de usuario _continua_ sin tiempo de inactividad perceptible aunque se produzcan errores.
-* **Escalabilidad**: Se pueden escalar de dos maneras, sacando partido al mismo tiempo del _escalado automático_:
+* **Escalabilidad**: _Capacidad de crecer_. Se pueden escalar de dos maneras, sacando partido al mismo tiempo del _escalado automático_:
   * _**Vertical**_: La _capacidad informática_ se puede aumentar si se agrega _RAM_ o _CPU_ adicionales a una máquina virtual.
   * _**Horizontal**_: La capacidad informática se puede aumentar si se agregan _instancias de un recurso_, como máquinas virtuales adicionales a la configuración.
 * **Elasticidad**: Se pueden configurar para que _siempre_ tengan los recursos que necesitan.
@@ -27,6 +27,8 @@ La informática en la nube ofrece una _innovación más rápida_, _recursos flex
 * **SaaS**: El proveedor de servicios en la nube _administra todos los aspectos del entorno de la aplicación_, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube _solo necesita proporcionar sus datos_ a la aplicación administrada por el proveedor de servicios en la nube.
   * Ventajas: Sin gastos de capital, ágil, modelo de precio de pago por uso, flexible.
   * Desventajas: Limitaciones de software.
+
+![Modelos de servicio en la nube](.\img\iaas-paas-saas-expanded.png)
 
 ## Informática sin servidor
 
