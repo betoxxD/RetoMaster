@@ -52,8 +52,9 @@ El proveedor de servicios en la nube _administra todos los aspectos del entorno 
 * **Ventajas**: Sin gastos de capital, ágil, modelo de precio de pago por uso, flexible.
 * **Desventajas**: Limitaciones de software.
 
+![Modelos de servicio en la nube](./Img/iaas-paas-saas-expanded.png)
+
 _Servicios que pueden ejecutarse en cada uno de los modelos de servicio en la nube._
-![Modelos de servicio en la nube](./img/iaas-paas-saas-expanded.png)
 
 ## Informática sin servidor
 
@@ -73,8 +74,9 @@ Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u
 
 Combina la nube pública con la privada, lo que permite compartir datos y aplaciones entre estas dos.
 
-_Implementación de la nube híbrida_
 ![Nube híbrida](./Img/cloud-computing-continuum.png)
+
+_Implementación de la nube híbrida_
 
 ## ¿Qué es Azure?
 
@@ -106,8 +108,9 @@ Azure ofrece la libertad de _compilar_, _administrar_ e _implementar_ aplicacion
 * **Inteligencia Artificial**: Azure provee servicios de inteligencia artificial y aprendizaje automático.
 * **DevOps**: Reúne a individuos, procesos y tecnología mediante la automatización de la entrega de software para ofrecer un valor continuo a los usuarios.
 
-_Vista general de los servicios y características disponibles de Azure._
 ![Servicios de Azure](./Img/azure-services.png)
+
+_Vista general de los servicios y características disponibles de Azure._
 
 ## Administración de las suscripciones, los grupos de administración y los recursos de Azure
 
